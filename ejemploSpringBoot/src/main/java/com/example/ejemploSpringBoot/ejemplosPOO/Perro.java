@@ -1,4 +1,4 @@
-package ejemplosPOO;
+package com.example.ejemploSpringBoot.ejemplosPOO;
 
 public class Perro extends Animal{
     public Perro(String nombre) {

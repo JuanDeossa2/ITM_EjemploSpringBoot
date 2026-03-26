@@ -1,4 +1,4 @@
-package ejemploProgramacionFuncional;
+package com.example.ejemploSpringBoot.ejemploProgramacionFuncional;
 
 import java.util.HashMap;
 import java.util.Map;

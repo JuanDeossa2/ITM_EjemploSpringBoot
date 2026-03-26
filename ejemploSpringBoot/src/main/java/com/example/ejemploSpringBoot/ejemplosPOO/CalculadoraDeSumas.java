@@ -1,4 +1,4 @@
-package ejemplosPOO;
+package com.example.ejemploSpringBoot.ejemplosPOO;
 
 public class CalculadoraDeSumas {
     public int sumar(int a, int b){

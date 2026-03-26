@@ -1,4 +1,4 @@
-package ejemplosPOO;
+package com.example.ejemploSpringBoot.ejemplosPOO;
 
 public class Animal {
     private  String nombre;

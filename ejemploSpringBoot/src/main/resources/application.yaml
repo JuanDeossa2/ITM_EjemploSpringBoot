@@ -1,3 +1,7 @@
 spring:
   application:
     name: ejemploSpringBoot
+server:
+  servlet:
+    context-path: /ejemplo
+  port: 8084

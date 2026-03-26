@@ -1,4 +1,4 @@
-package ejemplosCollecciones;
+package com.example.ejemploSpringBoot.ejemplosCollecciones;
 
 import java.util.ArrayList;
 import java.util.LinkedList;

@@ -1,4 +1,4 @@
-package ejemplosCollecciones;
+package com.example.ejemploSpringBoot.ejemplosCollecciones;
 
 import java.util.Map;
 import java.util.TreeMap;

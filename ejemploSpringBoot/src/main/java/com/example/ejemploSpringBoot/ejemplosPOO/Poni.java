@@ -1,4 +1,4 @@
-package ejemplosPOO;
+package com.example.ejemploSpringBoot.ejemplosPOO;
 
 public class Poni extends Caballo{
 
@@ -11,6 +11,6 @@ public class Poni extends Caballo{
         return "Ser bonito";
     }
     public  void  hacerSonido(){
-        System.out.println("El animal " + getNombre()+ "re lincha con gracia");
+        System.out.println("El animal " + getNombre()+ "relincha con graci y se enoja");
     }
 }
